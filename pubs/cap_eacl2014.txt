@@ -1,0 +1,16 @@
+How to Produce Unseen Teddy Bears: Improved Morphological Processing of Compounds in SMT. 
+
+Fabienne Cap, Alexander Fraser, Marion Weller, Aoife Cahill
+
+Compounding in morphologically rich languages is a highly productive
+process which often causes SMT approaches to fail because of unseen
+words.  We present an approach for translation into a compounding
+language that splits compounds into simple words for training and,
+due to an underspecified representation, allows for free merging of
+simple words into compounds after translation. In contrast to
+previous approaches, we use features projected from the source
+language to predict compound mergings. We integrate our approach
+into end-to-end SMT and show that many compounds matching the
+reference translation are produced which did not appear in the
+training data. Additional manual evaluations support the usefulness
+of generalizing compound formation in SMT.

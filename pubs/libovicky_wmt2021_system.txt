@@ -1,0 +1,15 @@
+The LMU Munich Systems for the WMT21 Unsupervised and Very Low-Resource Translation Task
+
+Jindřich Libovický, Alexander Fraser
+
+WMT 2021
+
+We present our submissions to the WMT21 shared task in Unsupervised
+and Very Low Resource machine translation between German and Upper
+Sorbian, German and Lower Sorbian, and Russian and Chuvash. Our
+low-resource systems (German↔Upper Sorbian, Russian↔Chuvash) are
+pre-trained on high-resource pairs of related languages. We fine-tune
+those systems using the available authentic parallel data and improve
+by iterated back-translation. The unsupervised German↔Lower Sorbian
+system is initialized by the best Upper Sorbian system and improved by
+iterated back-translation using monolingual data only.

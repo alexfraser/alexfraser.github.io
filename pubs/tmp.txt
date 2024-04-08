@@ -1,0 +1,13 @@
+   Pre-trained multilingual language models are the foundation of many NLP approaches, including cross-lingual transfer solutions.
+    However, languages with small available monolingual corpora are often not well supported by these models leading to poor performance.
+    We propose an unsupervised approach to improve the cross-lingual representations of low-resource languages by bootstrapping word translation pairs from monolingual corpora and using them to
+    % fine-tune language models.
+    improve language alignment in pre-trained language models.
+%    We consider i) 9 seen languages that are used to pre-train language models but are not well represented due to small training corpora sizes and ii) 4 unseen languages that were not used for pre-training at all.
+    We perform 
+    experiments on nine languages, using
+    contextual word retrieval and zero-shot named entity recognition to measure both intrinsic cross-lingual word representation quality and downstream task performance, showing improved performance.
+    %We show improved performance on both seen and unseen low-resource languages, while analysing various aspects of our approach.
+    Our results show that it is possible to improve 
+    %and extend the language support of 
+    pre-trained multilingual language models by relying only on non-parallel resources.

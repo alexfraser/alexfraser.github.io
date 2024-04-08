@@ -1,0 +1,12 @@
+Distinguishing Degrees of Compositionality in Compound Splitting for
+Statistical Machine Translation
+
+Marion Weller, Fabienne Cap, Stefan Müller, Sabine Schulte im Walde, Alexander Fraser
+
+The paper presents an approach to morphological compound splitting
+that takes the degree of compositionality into account. We apply our
+approach to German noun compounds and particle verbs within a
+German-English SMT system, and study the effect of only splitting
+compositional compounds as opposed to an aggressive splitting.  A
+qualitative study explores the translational behaviour of
+non-compositional compounds.

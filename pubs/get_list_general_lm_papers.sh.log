@@ -1,0 +1,13 @@
+YES Bigoulaeva LREV 2023 is trasnfer learning, label modification for cross-lingual
+YES Chron Findings EACL 2023 is on text classification (soup)
+YES? Gassen VLDB 2022 conversational agents
+YES Haemmerl Arxiv 2022 multiling moral norms. "not yet clear moral norms between langs". Look at newest abstract!
+YES Haemmerl Findings ACL 2022 Static/contextual
+YES Hangya EMNLP 2022 unsup BLI for alignment of LMs
+YES Hangya WMT 2021 WSD/OOV
+YES?/NMT Libo EMNLP 2020 Char-level finetune
+YES?/NMT Libo Findings ACL 2022 Why not char MT?
+YES Libo Findings EMNLP 2020 Lang neutrality Multiling LMs!
+YES? Peskov Findings EMNLP 2021 Entities across languages and cultures - embeddings, wikidata shared properities
+YES Saadi MRL 2022 Comp Analysis Cross-Ling. Approach that is supposedly better than fine-tuning (?)
+YES? Severini BUCC 2022 Cheap training signals

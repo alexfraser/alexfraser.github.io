@@ -1,0 +1,21 @@
+Unsupervised Parallel Sentence Extraction from Comparable Corpora
+
+Viktor Hangya, Fabienne Braune, Yuliya Kalasouskaya, Alexander Fraser
+
+IWSLT 2018
+
+Mining parallel sentences from comparable corpora is of great interest
+for many downstream tasks. In the BUCC 2017 shared task, systems
+performed well by training on gold standard parallel
+sentences. However, we often want to mine parallel sentences without
+bilingual supervision. We present a simple approach relying on
+bilingual word embeddings trained in an unsupervised fashion. We
+incorporate orthographic similarity in order to handle words with
+similar surface forms. In addition, we propose a dynamic threshold
+method to decide if a candidate sentence-pair is parallel which
+eliminates the need to fine tune a static value for different
+datasets. Since we do not employ any language specific engineering
+our approach is highly generic. We show that our approach is
+effective, on three language-pairs, without the use of any bilingual
+signal which is important because parallel sentence mining is most
+useful in low resource scenarios.

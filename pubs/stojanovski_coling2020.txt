@@ -1,0 +1,26 @@
+ContraCAT: Contrastive Coreference Analytical Templates for Machine Translation
+
+Dario Stojanovski*, Benno Krojer*, Denis Peskov*, Alexander Fraser
+
+COLING 2020
+
+Recent high scores on pronoun translation using context-aware neural
+machine translationhave suggested that current approaches work
+well. ContraPro is a notable example ofa contrastive challenge set for
+English to German pronoun translation. The high scores achieved by
+current approaches may suggest that they are able to effectively model
+the complicated set of inferences required to carry out pronoun
+translations. This entails the ability to determine which entities
+could be referred to, identify which entity a source-language pronoun
+refers to (if any), and access the target-language grammatical
+gender for that entity. We first show through a series of targeted
+adversarial attacks that in fact current approaches are not able to
+model all of this information well. Inserting small amounts of
+distracting information is enough to strongly reduce scores, which
+should not be the case. We then create a new template test set
+Contracat, designed to individually assess the ability to handle the
+specific steps necessary for successful pronoun translation. Our
+analyses show that current approaches to context-aware NMT rely on a set
+of surface heuristics, which break down when translations require real
+reasoning. We also try an approach for augmenting the training data,
+with some improvements.

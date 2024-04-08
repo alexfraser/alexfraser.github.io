@@ -1,0 +1,11 @@
+Aleš Tamchyna, Roman Sudarikov, Ondřej Bojar, Alexander Fraser 
+CUNI-LMU submissions in WMT2016: Chimera constrained and beaten
+2016 WMT
+
+This paper describes the phrase-based systems jointly submitted by
+CUNI and LMU to English-Czech and English-Romanian News translation
+tasks of WMT16. In contrast to previous years, we strictly limited our
+training data to the constraint datasets, to allow for a reliable
+comparison with other research systems. We experiment with using
+several additional models in our system, including a feature-rich
+discriminative model of phrasal translation.

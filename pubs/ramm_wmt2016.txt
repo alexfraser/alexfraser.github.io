@@ -1,0 +1,17 @@
+Modeling verbal inflection for English to German SMT
+Anita Ramm, Alexander Fraser
+WMT 2016
+
+German verbal inflection is frequently wrong in standard statistical
+machine translation approaches. German verbs agree with subjects in
+person and number, and they bear information about mood and tense. For
+subject–verb agreement, we parse German MT output to identify
+subject–verb pairs and ensure that the verb agrees with the
+subject. We show that this approach improves subject-verb
+agreement. We model tense/mood translation from English to German by
+means of a statistical classification model. Although our model shows
+good results on well-formed data, it does not systematically improve
+tense and mood in MT output. Reasons include the need for discourse
+knowledge, dependency on the domain, and stylistic variety in how
+tense/mood is translated. We present a thorough analysis of these
+problems.

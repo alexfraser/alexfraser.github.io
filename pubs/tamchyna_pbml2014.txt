@@ -1,0 +1,13 @@
+Integrating a Discriminative Classifier into Phrase-based and Hierarchical Decoding
+
+Ales Tamchyna, Fabienne Braune, Alexander Fraser, Marine Carpuat, Hal Daume III, Chris Quirk
+
+Current state-of-the-art statistical machine translation (SMT) relies
+on simple feature functions which make independence assumptions at the
+level of phrases or hierarchical rules. However, it is well-known that
+discriminative models can benefit from rich features extracted from
+the source sentence context outside of the applied phrase or hierarchical rule,
+which is available at decoding time. We present a framework for the
+open-source decoder Moses that allows discriminative models over
+source context to easily be trained on a large number of examples and
+then be included as feature functions in decoding. 

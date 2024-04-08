@@ -1,0 +1,28 @@
+Towards Handling Compositionality in Low-Resource Bilingual Word Induction
+
+Viktor Hangya
+Alexander Fraser
+
+AMTA 2020
+
+https://www.aclweb.org/anthology/2020.amta-research.8/
+
+Bilingual word embeddings (BWEs) facilitate the translation of single
+source language words to single target language words. However, often
+a single source word must be translated using two target
+words. Previous approaches depend on observing the two target language
+words as a (frequent) bigram in a corpus. But for many languages only
+a small amount of written text is available, so that such "atomic"
+embeddings can only be built for a small number of frequent
+bigrams. In this paper, we extend atomic embedding based approaches to
+improve the 1-to-2 word translation of rare words by decomposing the
+representation of a source word to representations of two target
+words, allowing to model translations for which the required bigram
+was not observed in our monolingual corpora. We create a gold standard
+lexicon for 1-to-2 translation containing source German compounds
+along with their translations to two English words, and show that our
+approach improves performance. We also show the importance of bigrams
+for the downstream task of unsupervised machine translation and show
+small but significant BLEU score improvements with our approach. Our
+approach is an important first step in the direction of handling
+composition in BWEs, beyond simple memorization of seen bigrams.

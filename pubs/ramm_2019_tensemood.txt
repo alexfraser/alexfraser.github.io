@@ -1,0 +1,16 @@
+Pragmatic information in translation: a corpus-based study of tense and mood in English and German
+
+Anita Ramm, Ekaterina Lapshinova-Koltunski, Alexander Fraser
+
+Technical Report of CIS, LMU Munich. September 19th, 2019.
+
+Grammatical tense and mood are important linguistic phenomena to
+consider in natural language processing (NLP) research. We consider
+the correspondence between English and German tense and mood in
+translation. Human translators do not find this correspondence easy,
+and as we will show through careful analysis, there are no simplistic
+ways to map tense and mood from one language to another. Our
+observations about the challenges of human translation of tense and
+mood have important implications for multilingual NLP. Of particular
+importance is the challenge of modeling tense and mood in rule-based,
+phrase-based statistical and neural machine translation.

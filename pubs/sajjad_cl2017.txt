@@ -1,0 +1,22 @@
+Statistical Models for Unsupervised, Semi-supervised and Supervised Transliteration Mining
+Hassan Sajjad, Helmut Schmid, Alexander Fraser, Hinrich Schütze
+CL 2017
+
+We present a generative model that efficiently mines transliteration
+pairs in a consistent fashion in three different settings,
+unsupervised, semi-supervised and supervised transliteration mining.
+The model interpolates two sub-models, one for the generation of
+transliteration pairs and one for the generation of
+non-transliteration pairs (i.e. noise). The model is trained on noisy
+unlabelled data using the EM algorithm. During training the
+transliteration sub-model learns to generate transliteration pairs
+while the fixed non-transliteration model generates the noise
+pairs. After training, the unlabelled data is disambiguated based on
+the posterior probabilities of the two sub-models. We evaluate our
+transliteration mining system on data from a transliteration mining
+shared task and on parallel corpora. For three out of four language
+pairs, our system outperforms all semi-supervised and supervised
+systems that participated in the NEWS 2010 shared task. On word pairs
+extracted from parallel corpora with less than 2% transliteration
+pairs, our system achieves up to 86.7% F-measure with 77.9% precision
+and 97.8% recall.

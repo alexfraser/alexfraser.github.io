@@ -1,0 +1,15 @@
+Investigating the Usefulness of Generalized Word Representations in SMT
+
+Nadir Durrani, Philipp Koehn, Helmut Schmid, Alexander Fraser
+
+We investigate the use of generalized representations (POS,
+morphological analysis and word clusters) in phrase-based models and
+the N-gram-based Operation Sequence Model (OSM). Our integration
+enables these models to learn richer lexical and reordering patterns,
+consider wider contextual information and generalize better in sparse
+data conditions. When interpolating generalized OSM models on the
+standard IWSLT and WMT tasks we observed improvements of up to +1.35
+on the English-to-German task and +0.63 for the German-to-English
+task. Using automatically generated word classes in standard
+phrase-based models and the OSM models yields an average improvement
+of +0.80 across 8 language pairs on the IWSLT shared task.

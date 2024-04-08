@@ -1,0 +1,22 @@
+God Wat Þæt Ic Eom God -- An Exploratory Investigation Into Word Sense Disambiguation in Old English
+
+Martin Wunderlich
+University of Munich (LMU)
+
+Alexander Fraser
+University of Munich (LMU)
+
+P.S. Langeslag
+University of Göttingen
+
+Natural Language Processing (NLP) of historical languages is an
+understudied area. Much previous work has focused on the problems of
+normalization and POS tagging. In contrast, we consider a new problem,
+word sense disambiguation (WSD). We provide a survey of previous work
+on processing of historical languages and discuss what we can and
+cannot apply to the problem of WSD, specifically WSD of Old English
+(OE). We then annotate a new resource for supervised WSD, which we
+make available. Finally, we carry out proof-of-concept experiments,
+followed by a discussion of several promising areas for future work.
+
+[The OE in the title means "God knows I'm good"]

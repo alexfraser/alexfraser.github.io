@@ -1,0 +1,16 @@
+Developing a Stemmer for German Based on a Comparative Analysis of Publicly Available Stemmers
+Leonie Weißweiler, Alexander Fraser
+GSCL 2017
+
+Stemmers, which reduce words to their stems, are important components
+of many natural language processing systems. In this paper, we conduct
+a systematic evaluation of several stemmers for German using two gold
+standards we have created and will release to the community. We then
+present our own stemmer, which achieves state-of-the-art results, is
+easy to understand and extend, and will be made publicly available
+both for use by programmers and as a benchmark for further stemmer
+development.
+
+The stemmer is available at: 
+
+https://www.github.com/LeonieWeissweiler/CISTEM

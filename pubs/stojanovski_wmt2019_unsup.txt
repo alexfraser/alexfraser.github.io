@@ -1,0 +1,16 @@
+The LMU Munich Unsupervised Machine Translation System for WMT19
+
+Dario Stojanovski, Viktor Hangya, Matthias Huck, Alexander Fraser
+
+Fourth Conference on Machine Translation 2019
+
+We describe LMU Munich's machine translation system for German to
+Czech translation which was used to participate in the WMT19 shared
+task on unsupervised news translation. We train our model using
+monolingual data only from both languages. The final model is an
+unsupervised neural model using established techniques for
+unsupervised translation such as denoising autoencoding and online
+back-translation. We bootstrap the model with masked language model
+pretraining and enhance it with back-translations from an unsupervised
+phrase-based system which is itself bootstrapped using unsupervised
+bilingual word embeddings.

@@ -1,0 +1,12 @@
+Neural Morphological Tagging of Lemma Sequences for Machine Translation
+Costanza Conforti, Matthias Huck, Alexander Fraser
+AMTA 2018
+
+Translation to morphologically rich languages is a difficult task
+because of sparsity caused by morphological richness. In this work we
+perform a pilot study on predicting the morphologically rich POS tags
+of sequences of lemmas. Similar studies have been conducted in the
+context of phrase-based statistical machine translation. We implement
+a state-of-the-art tagger taking lemmas as input and show that we can
+successfully predict the morphologically rich POS tags, with
+accuracies of up to 91%.

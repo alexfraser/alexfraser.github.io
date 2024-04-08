@@ -1,0 +1,14 @@
+To Act Or Not To Act - Annotating and Classifying Email Regarding Necessary Action
+
+Veronika Hintzen, Alexander Fraser
+
+KONVENS 2019
+
+Every user of email is aware of the problem of reacting to emails that
+require a time-sensitive action by the recipient while being
+overwhelmed by informational emails. We define a new classification
+problem to capture this distinction, creating comprehensive annotation
+guidelines and carrying out annotation. We carry out a
+proof-of-concept implementation of a classifier and discuss our future
+research which will result in a tool that is usable in an everyday
+business environment.

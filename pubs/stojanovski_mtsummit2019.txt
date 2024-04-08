@@ -1,0 +1,19 @@
+Improving Anaphora Resolution in Neural Machine Translation Using Curriculum Learning
+
+Dario Stojanovski, Alexander Fraser
+
+MT Summit 2019
+
+Modeling anaphora resolution is critical for proper pronoun
+translation in neural machine translation. Recently it has been
+addressed by context-aware models with varying success. In this work,
+we propose a carefully designed training curriculum that facilitates
+better anaphora resolution in context-aware NMT. As a baseline, we
+train context-aware models as was done in previous work. We leverage
+oracle information specific to anaphora resolution during training.
+Following the intuition behind curriculum learning, we are able to
+train context-aware models which are improved with respect to
+coreference resolution, even though both the baseline and the improved
+system have access to exactly the same information at test time. We
+test our approach using two pronoun-specific evaluation metrics for
+MT.

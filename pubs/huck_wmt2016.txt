@@ -1,0 +1,12 @@
+The Edinburgh/LMU Hierarchical Machine Translation System for WMT 2016
+Matthias Huck, Alexander Fraser, Barry Haddow
+WMT 2016
+
+This paper describes the hierarchical phrase-based machine translation
+system built jointly by the University of Edinburgh and the University
+of Munich (LMU) for the shared translation task at the ACL 2016 First
+Conference on Machine Translation (WMT16).  The WMT16 Edinburgh/LMU
+system was trained for translation of news domain texts from English
+into Romanian. We participated in the shared task for machine
+translation of news under “constrained” conditions, i.e. using the
+provided training data only.

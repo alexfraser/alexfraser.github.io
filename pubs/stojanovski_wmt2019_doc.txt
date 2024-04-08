@@ -1,0 +1,17 @@
+Combining Local and Document-Level Context: The LMU Munich Neural Machine Translation System at WMT19
+
+Dario Stojanovski, Alexander Fraser
+
+Fourth Conference on Machine Translation 2019
+
+We describe LMU Munich's machine translation system for English to
+German translation which was used to participate in the WMT19 shared
+task on supervised news translation. We specifically participated in
+the document-level MT track. The system used as a primary submission
+is a context-aware Transformer capable of both rich modeling of
+limited contextual information and integration of large-scale
+document-level context with a less rich representation. We train this
+model by fine-tuning a big Transformer baseline. Our experimental
+results show that document-level context provides for large
+improvements in translation quality, and adding a rich representation
+of the previous sentence provides a small additional gain.

@@ -1,0 +1,25 @@
+Improving machine translation of rare and unseen word senses
+
+Viktor Hangya, Qianchu Liu, Dario Stojanovski, Alexander Fraser, Anna Korhonen
+
+In Proceedings of the Sixth Conference on Machine Translation (WMT 2021)
+
+The performance of NMT systems has improved drastically in the past
+few years but the translation of multi-sense words still poses a
+challenge. Since word senses are not represented uniformly in the
+parallel corpora used for training, there is an excessive use of the
+most frequent sense in MT output. In this work, we propose CmBT
+(Contextually-mined Back-Translation), an approach for improving
+multi-sense word translation leveraging pre-trained cross-lingual
+contextual word representations (CCWRs). Because of their contextual
+sensitivity and their large pre-training data, CCWRs can easily
+capture word senses that are missing or very rare in parallel corpora
+used to train MT. Specifically, CmBT applies bilingual lexicon
+induction on CCWRs to mine sense-specific target sentences from a
+monolingual dataset, and then back-translates these sentences to
+generate a pseudo parallel corpus as additional training data for an
+MT system. We test the translation quality of ambiguous words on the
+MuCoW test suite, which was built to test the word sense
+disambiguation effectiveness of MT systems. We show that our system
+improves on the translation of difficult unseen and low frequency word
+senses.

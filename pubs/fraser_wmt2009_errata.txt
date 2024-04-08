@@ -1,0 +1,17 @@
+The published version had two mistakes:
+
+1) a typo in the RANDLM 21.2 BLEU score in the German to English
+results table, in the bottom row.
+
+2) the English to German METEOR scores were wrong due to a script bug.
+
+These two mistakes have been corrected in the version available on my
+website, no other changes were made.
+
+The fixed version is available from here:
+
+http://www.ims.uni-stuttgart.de/~fraser/pubs/fraser_wmt2009.pdf
+
+The original version (with bugs) is available from here:
+
+http://www.statmt.org/wmt09/pdf/WMT-0920.pdf

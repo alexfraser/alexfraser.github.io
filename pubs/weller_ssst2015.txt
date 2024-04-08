@@ -1,0 +1,13 @@
+Predicting Prepositions for SMT
+Marion Weller, Alexander Fraser, Sabine Schulte im Walde
+
+The translation of prepositions is a difficult task for machine
+translation; a preposition must convey the source-side meaning and
+also meet target-side constraints. In our approach, we move the
+selection of prepositions out of the translation system into a
+post-processing component. During translation, we use an abstract
+representation of prepositions as a place-holder that serves as a
+basis for the generation of prepositions in the post-processing step.
+In this step all subcategorized elements of a verb are considered and
+allotted to their respective functions – as PPs with an overt
+preposition or as NPs with an “empty” preposition.

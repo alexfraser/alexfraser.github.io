@@ -1,0 +1,20 @@
+The LMU Munich System for the WMT 2021 Large-Scale Multilingual Machine Translation Shared Task
+
+Wen Lai, Jindřich Libovický, Alexander Fraser
+
+WMT 2021
+
+This paper describes the submission of LMU Munich to the WMT 2021
+multilingual machine translation task for small track #1, which
+studies translation between 6 languages (Croatian, Hungarian,
+Estonian, Serbian, Macedonian, English) in 30 directions. We
+investigate the extent to which bilingual translation systems can
+influence multilingual translation systems. More specifically, we
+trained 30 bilingual translation systems, covering all language pairs,
+and used data augmentation technologies such as back-translation and
+knowledge distillation to improve the multilingual translation
+systems. Our best translation system scores 5 to 6 BLEU higher than a
+strong baseline system provided by the organizers. As seen in the
+dynalab leaderboard, our submission is the only fully constrained
+submission that uses only the corpus provided by the organizers and
+does not use any pre-trained models.

@@ -1,0 +1,18 @@
+Determining the Placement of German Verbs in English-to-German SMT
+Anita Gojun, Alexander Fraser
+EACL 2012
+
+When translating English to German, using statistical machine
+translation (SMT), existing reordering models often cannot model
+long-range reorderings which are needed to generate the German
+translations with verbs in the correct position. We implement a method
+for reordering English as a preprocessing step for English-to-German
+SMT. The reordering is a sequence of hand-crafted reordering rules
+applied to English parse trees.  The reordering rules place English
+verbal elements in the positions within the clause they will have in
+the German translation.  This is a difficult problem, as German verbal
+elements can appear in different positions within a clause (in
+contrast with English verbal elements, for which the position can not
+vary as much).  The reordered English sentences are then translated by
+a standard phrase-based SMT system. We show that our approach leads to
+a significant improvement in translation performance.

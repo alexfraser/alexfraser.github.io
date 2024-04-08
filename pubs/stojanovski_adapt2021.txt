@@ -1,0 +1,23 @@
+Addressing Zero-Resource Domains Using Document-Level Context in Neural Machine Translation
+
+Dario Stojanovski and Alexander Fraser
+
+Proceedings of the Second Workshop on Domain Adaptation for NLP (AdaptNLP)
+
+2021
+
+
+Achieving satisfying performance in machine translation on domains for
+which there is no training data is challenging. Traditional supervised
+domain adaptation is not suitable for addressing such zero-resource
+domains because it relies on in-domain parallel data. We show that
+when in-domain parallel data is not available, access to
+document-level context enables better capturing of domain generalities
+compared to only having access to a single sentence. Having access to
+more information provides a more reliable domain estimation. We
+present two document-level Transformer models which are capable of
+using large context sizes and we compare these models against strong
+Transformer baselines. We obtain improvements for the two
+zero-resource domains we study. We additionally provide an analysis
+where we vary the amount of context and look at the case where
+in-domain data is available.

@@ -1,0 +1,11 @@
+Long-distance reordering during search for hierarchical phrase-based SMT
+Fabienne Braune, Anita Gojun, Alexander Fraser
+
+Long-distance reordering of syntactically divergent language pairs is
+a critical problem. SMT has had limited success in handling these
+reorderings during inference, and thus deterministic preprocessing
+based on reordering parse trees is used. We consider German-to-English
+translation using Hiero. We show how to effectively model
+long-distance reorderings during search. Our work is novel in that we
+look at reordering distances of up to 50 words, and conduct a detailed
+manual analysis based on a new gold standard.

@@ -1,0 +1,16 @@
+Labeled Morphological Segmentation with Semi-Markov Models
+
+Ryan Cotterell, Thomas Müller, Alexander Fraser, Hinrich Schütze
+
+CoNLL 2015
+
+
+We present labeled morphological segmentation - an alternative view of
+morphological processing that unifies several tasks. We introduce a
+new hierarchy of morphotactic tagsets and CHIPMUNK, a discriminative
+morphological segmentation system that, contrary to previous work,
+explicitly models morphotactics. We show improved performance on
+three tasks for six languages: (i) morphological segmentation, (ii)
+stemming and (iii) morphological tag classification. For morphological
+segmentation our method shows absolute improvements of 2-6 points F1
+over a strong baseline.

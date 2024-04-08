@@ -1,0 +1,18 @@
+Using Noun Class Information to Model Selectional Preferences 
+for Translating Prepositions in SMT
+
+Marion Weller, Sabine Schulte im Walde, Alexander Fraser
+
+Translating prepositions is a difficult and under-studied problem in
+SMT.  We present a novel method to improve the translation of
+prepositions by using noun classes to model their selectional
+preferences.  We compare three variants of noun class information: (i)
+classes induced from the lexical resource GermaNet or obtained from
+clusterings based on either (ii) window information or (iii) syntactic
+features.  Furthermore, we experiment with PP rule generalization.
+While we do not significantly improve over the baseline, our results
+demonstrate that (i) integrating selectional preferences as rigid
+class annotation in the parse tree is sub-optimal, and that (ii)
+clusterings based on window co-occurrence are more robust than
+syntax-based clusters or GermaNet classes for the task of modeling
+selectional preferences.

@@ -1,0 +1,17 @@
+Findings of the WMT 2022 Shared Tasks in Unsupervised MT and Very Low Resource Supervised MT
+
+Marion Weller-Di Marco and Alexander Fraser
+
+2022 Conference on Machine Translation (WMT)
+
+We present the findings of the WMT2022 Shared Tasks in Unsupervised MT
+and Very Low Resource Supervised MT with experiments on the language
+pairs German to/from Upper Sorbian, German to/from Lower Sorbian and
+Lower Sorbian to/from Upper Sorbian. Upper and Lower Sorbian are
+minority languages spoken in the Eastern parts of Germany. There are
+active language communities working on the preservation of the
+languages who also made the data used in this Shared Task available.
+In total, four teams participated on this Shared Task, with
+submissions from three teams for the unsupervised sub task, and
+submissions from all four teams for the supervised sub task. In this
+overview paper, we present and discuss the results.

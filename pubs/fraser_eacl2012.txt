@@ -1,0 +1,17 @@
+Modeling Inflection and Word-Formation in SMT
+Alexander Fraser, Marion Weller, Aoife Cahill, Fabienne Cap
+EACL 2012
+
+The current state-of-the-art in statistical machine translation (SMT)
+suffers from issues of sparsity and inadequate modeling power when
+translating into morphologically rich languages.  We model both
+inflection and word-formation for the task of translating into German.
+For inflection, we generalize over different inflected forms of a
+word, while also ensuring coherence of the inflected output.  For
+word-formation, we address compounding, which is highly productive in
+German. For both inflection and word-formation, we address the problem
+of portmanteaus.  We translate from English words to an underspecified
+German representation and then use linear-chain CRFs to predict the
+fully specified German representation.  We show that improved modeling
+of inflection and word-formation leads to improvement in translation
+performance.

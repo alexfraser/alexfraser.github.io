@@ -1,0 +1,11 @@
+This paper describes the joint submission of the QT21 and HimL
+projects for the English→Romanian translation task of the ACL 2016
+First Conference on Machine Translation (WMT 2016). The submission is
+a system combination which combines twelve different statistical
+machine translation systems provided by the different groups (RWTH
+Aachen University, LMU Munich, Charles University in Prague,
+University of Edinburgh, University of Sheffield, Karlsruhe Institute
+of Technology, LIMSI, University of Amsterdam, Tilde). The systems are
+combined using RWTH’s system combination approach. The final
+submission shows an improvement of 1.0 BLEU compared to the best
+single system on newstest2016.

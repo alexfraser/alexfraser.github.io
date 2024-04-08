@@ -1,0 +1,14 @@
+Parallelization of Neural Network Training for NLP with Hogwild!
+Valentin Deyringer, Alexander Fraser, Helmut Schmid, Tsuyoshi Okita
+MTM 2017
+
+Neural Networks are prevalent in todays NLP research. Despite their
+success for different tasks, training time is relatively long. We use
+Hogwild! to counteract this phenomenon and show that it is a suitable
+method to speed up training Neural Networks of different architectures
+and complexity. For POS tagging and translation we report considerable
+speedups of training, especially for the latter. We show that Hogwild!
+can be an important tool for training complex NLP architectures.
+
+Our implementation of Hogwild! for Theano can be found at:
+http://github.com/valentindey/async-train

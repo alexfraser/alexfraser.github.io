@@ -1,0 +1,19 @@
+Test Suite Evaluation: Morphological Challenges and Pronoun Translation
+
+Marion Weller-Di Marco and Alexander Fraser
+
+2022 Conference on Machine Translation (WMT)
+
+This paper summarizes the results of our test suite evaluation with a
+main focus on morphology for the language pairs English to/from
+German. We look at the translation of morphologically complex words
+(DE–EN), and evaluate whether English noun phrases are translated as
+compounds vs. phrases into German. Furthermore, we investigate the
+preservation of morphological features (gender in EN–DE pronoun
+translation and number in morpho-syntactically complex structures for
+DE–EN). Our results indicate that systems are able to interpret
+linguistic structures to obtain relevant information, but also that
+translation becomes more challenging with increasing complexity, as
+seen, for example, when translating words with negation or
+non-concatenative properties, and for the more complex cases of the
+pronoun translation task.

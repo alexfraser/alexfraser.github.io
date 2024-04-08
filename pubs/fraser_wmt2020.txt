@@ -1,0 +1,22 @@
+Findings of the WMT 2020 Shared Tasks in Unsupervised MT and Very Low Resource Supervised MT
+
+Alexander Fraser
+
+WMT 2020
+
+We describe the WMT 2020 Shared Tasks in Unsupervised MT and Very Low
+Resource Supervised MT. In both tasks, the community studied German
+to/from Upper Sorbian MT, which is a very realistic machine
+translation scenario (unlike the simulated scenarios used in
+particular in much of the unsupervised MT work in the past). We were
+able to obtain most of the digital data available for Upper Sorbian, a
+minority language of Germany, which was the original motivation for
+the Unsupervised MT shared task. As we were defining the task, we also
+obtained a small amount of parallel data (about 60000 parallel
+sentences), allowing us to offer a Very Low Supervised MT task as
+well. Six primary systems participated in the unsupervised shared
+task, two of these systems used additional data beyond the data
+released by the organizers. Ten primary systems participated in the
+very low resource supervised task.  The paper discusses the
+background, presents the tasks and results, and discusses best
+practices for the future.

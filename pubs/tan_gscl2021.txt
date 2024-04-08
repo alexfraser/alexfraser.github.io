@@ -1,0 +1,42 @@
+Cross-Lingual Word Embeddings for Extremely Low-Resource Languages: Improving Bilingual Lexicon Induction for Hiligaynon
+
+Speaker 1 (Mary Ann Tan), Co-Author 1 (Dario Stojanovski, CIS LMU), Co-Author 2
+(Alexander Fraser, CIS LMU)
+
+43rd Annual Conference of the German Linguistic Society (DGfS), Poster Session Computational Linguistics
+
+Cross-Lingual Word Embeddings (CLWEs) have been experiencing a surge in popularity in
+the past couple of years due to the remarkable progress in machine learning techniques, the
+availability of large natural language processing (NLP) datasets and the exponential growth
+in computing power. CLWEs represent words from several languages in a shared embedding
+space; a more standard bilingual representation is called Bilingual Word Embeddings
+(BWEs). This research area has gained traction in the field of machine translation (MT)
+primarily because of its application to the task of Bilingual Lexicon Induction (BLI), which
+uses BWEs to learn word-pair translations with no or little supervision.
+
+However, as with most research areas in NLP, progress is mostly limited to resource-rich
+Indo-European languages. Recent work on English (EN) and Hiligaynon (HIL), an extremely
+low-resource language and the 4 most spoken native language in the Philippines (10 million
+speakers), did not manage to produce BWEs of reasonable quality primarily due to a lack of
+a sizable monolingual corpus (Michel et al., 2020).
+
+Mapping-based approaches to CLWEs have prevailed due to their simplicity, computational
+tractability and relaxed data requirements (Mikolov et al., 2013; Faruqi and Dyer, 2014; Dinu
+et al., 2015; Lazaridou et al., 2015; Xing et al., 2015, Artetxe et al., 2016). This approach
+requires only two (2) monolingual word embeddings (MWEs), pre-trained separately on large
+unannotated monolingual corpora, and a seed lexicon containing word pairs from the source
+and the target language. Its objective is to project the word embeddings of the source MWEs
+to the embedding space of the target MWEs by learning a transformation matrix using the
+seed lexicon as its bilingual supervision.
+
+Previous studies on low-resource languages achieved zero or close to zero precision-at-1
+(P@1) with EN-HIL (Michel et al., 2020), and a collection of other non-heterogeneous BWEs
+trained on 5M token corpora (Dyer, 2019). In this study, we showed that EN-HIL BWEs,
+trained on a target corpus containing just a little over 1M tokens, yielded a BLI performance
+of P@1 at 9.26%. This was achieved by adapting an iterative orthogonal mapping with
+generative adversarial approach (Conneau et al., 2018), by properly curating the seed
+lexicon and by employing resource-rich languages as pivots for transfer learning. The pivot
+languages used for our experiments were two (2) Philippine languages, Filipino and
+Cebuano, another Austronesian language, namely Bahasa Indonesia, and Spanish, a major
+source of foreign loan words in Hiligaynon (Kaufmann, 1934). Among the pivot languages
+used, Spanish performed best due to the high quality of its MWEs.

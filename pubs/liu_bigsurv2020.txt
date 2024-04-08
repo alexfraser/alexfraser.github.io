@@ -1,0 +1,17 @@
+Improving SHARE translation verification
+
+Miss Yi-Chen Liu (CIS, LMU Munich)
+Dr Yuri Pettinicchi (MEA-MPISOC) - Presenting Author
+Professor Alexander Fraser (CIS, LMU Munich)
+
+BIGSURV 2020
+
+https://www.bigsurv20.org/programme?sess=3#138
+
+The Survey of Health, Ageing and Retirement in Europe (SHARE) project is a cross-national survey that aims to improve social policies through studying the living status of aging population in Europe. It is a multilingual questionnaire with 39 country-specific languages. In order to get high quality standards, the translated survey questions are verified before the interviewers are sent into the field. During translation verification, common translation mistakes such as misspelled terms, omissions and other mistranslations are corrected. Third party machine translation systems and human verifiers currently perform the verification task.
+
+The process of translation verification in SHARE takes a third of the time allocated for translation procedures and it costs a person-month for each of 28 SHARE country teams. Our aim is to preserve high standards while we reduce the operational costs. We are developing in-house solutions to make the process more efficient. Unfortunately, creating machine translation systems requires large parallel corpora, which are expensive to get and/or are not available for some languages and specific domains. Therefore, we train a word-to-word translation system in an unsupervised manner, which allows us to solve the problem without parallel corpora.
+
+We use the unsupervised model introduced by Artetxe et al. (2018), training bilingual word embeddings and then finding word translations through dictionary induction. To train the model, only appropriate monolingual corpora in the source language and the target language are needed, which allows us to collect and combine more relevant and bigger datasets for training our translation system. For instance, Europarl, News Commentary, and SHARE survey questions are all combined together for training a high quality word translation system.
+
+After bilingual word embeddings are trained, English and foreign language survey questions are imported into the model, which then generates the 10 best foreign language translations of each English word. If one of the best translations is in the human foreign language translation then this word pair can be marked as matched. By measuring the number of matched word pairs, we can estimate the translation quality. Our new unsupervised approach has the potential to not only make translation verification more efficient, but also to lessen the heavy workload for human verifiers in SHARE.

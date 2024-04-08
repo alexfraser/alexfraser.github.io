@@ -1,0 +1,18 @@
+Knowledge Sources for Constituent Parsing of German, a Morphologically Rich and Less-Configurational Language
+
+Alexander Fraser
+Helmut Schmid
+Richard Farkas
+Renjing Wang
+Hinrich Schuetze
+
+We study constituent parsing of German, a morphologically rich and
+less-configurational language.  We use a PCFG treebank grammar that
+has been adapted to the morphologically rich properties of German by
+markovization and special features added to its productions. We
+evaluate the impact of adding lexical knowledge.  Then we examine both
+monolingual and bilingual approaches to parse reranking. Our reranking
+parser is the new state of the art in constituency parsing of the
+Tiger treebank.  We perform an analysis, concluding with lessons
+learned which apply to parsing other morphologically rich and
+less-configurational languages.

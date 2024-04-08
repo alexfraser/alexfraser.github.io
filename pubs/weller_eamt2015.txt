@@ -1,0 +1,12 @@
+Target-side Generation of Prepositions for SMT
+
+Marion Weller, Alexander Fraser, Sabine Schulte im Walde
+
+We present a translation system that models the selection of
+prepositions in a target-side generation component. This novel
+approach allows the modeling of all subcategorized elements of a verb
+as either NPs or PPs according to target-side requirements relying on
+source and target side features. The BLEU scores are encouraging, but
+fail to surpass the baseline. We additionally evaluate the preposition
+accuracy for a carefully selected subset and discuss how typical
+problems of translating prepositions can be modeled with our method.

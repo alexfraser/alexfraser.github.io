@@ -1,0 +1,19 @@
+Cross-lingual Annotation Projection Is Effective for Neural Part-of-Speech Tagging
+
+Matthias Huck, Diana Dutka, Alexander Fraser
+
+VarDial 2019
+
+We tackle the important task of part-of-speech tagging using a neural
+model in the zero-resource scenario, where we have no access to
+gold-standard POS training data. We compare this scenario with the
+low-resource scenario, where we have access to a small amount of
+gold-standard POS training data. Our experiments focus on Ukrainian as
+a representative of under-resourced languages. Russian is highly
+related to Ukrainian, so we exploit gold-standard Russian POS tags. We
+consider four techniques to perform Ukrainian POS tagging: zero-shot
+tagging and cross-lingual annotation projection (for the zero-resource
+scenario), and compare these with self-training and multilingual
+learning (for the low-resource scenario). We find that cross-lingual
+annotation projection works particularly well in the zero-resource
+scenario.

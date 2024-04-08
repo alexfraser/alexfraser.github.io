@@ -1,0 +1,28 @@
+LMU Bilingual Dictionary Induction System with Word Surface Similarity Scores for BUCC 2020
+
+Silvia Severini, Viktor Hangya, Alexander Fraser, Hinrich Schütze
+
+BUCC 2020
+
+The task of Bilingual Dictionary Induction (BDI) consists of
+generating translations for source language words which is important
+in the framework of machine translation (MT). The aim of the BUCC
+2020 shared task is to perform BDI on various language pairs using
+comparable corpora. In this paper, we present our approach to the
+task of English-German and English-Russian language pairs. Our system
+relies on Bilingual Word Embeddings (BWEs) which are often used for
+BDI when only a small seed lexicon is available making them
+particularly effective in a low-resource setting. On the other hand,
+they perform well on high frequency words only. In order to improve
+the performance on rare words as well, we combine BWE based word
+similarity with word surface similarity methods, such as orthography
+and transliteration information. In addition to the often used
+top-$n$ translation method, we experiment with a margin based approach
+aiming for dynamic number of translations for each source word. We
+participate in both the open and closed tracks of the shared task and
+we show improved results of our method compared to simple vector
+similarity based approaches. Our system was ranked in the top-3
+teams and achieved the best results for English-Russian.
+
+Keywords: BDI, BWE, Orthography, Transliteration
+

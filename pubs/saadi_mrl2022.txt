@@ -1,0 +1,26 @@
+Comparative Analysis of Cross-lingual Contextualized Word Embeddings
+
+Hossain Shaikh Saadi, Viktor Hangya, Tobias Eder and Alexander Fraser
+
+MRL 2022
+
+Contextualized word embeddings have emerged as the most important tool
+for performing NLP tasks in a large variety of languages. In order to
+improve the cross-lingual representation and transfer learning quality,
+contextualized embedding alignment techniques, such as mapping and
+model fine-tuning, are employed. Existing techniques however are
+time-, data- and computational resource-intensive. In this paper we
+analyze these techniques by utilizing three tasks: bilingual lexicon
+induction (BLI), word retrieval and cross-lingual natural language
+inference (XNLI) for a high resource (German-English) and a low
+resource (Bengali-English) language pair. In contrast to previous
+works which focus only on a few popular models, we compare five
+multilingual and seven monolingual language models and investigate the
+effect of various aspects on their performance, such as vocabulary
+size, number of languages used for training and number of
+parameters. Additionally, we propose a parameter-, data- and
+runtime-efficient technique which can be trained with 10% of the data,
+less than 10% of the time and have less than 5% of the trainable
+parameters compared to model fine-tuning. We show that our proposed
+method is competitive with resource heavy models, even outperforming
+them in some cases, even though it relies on less resources.

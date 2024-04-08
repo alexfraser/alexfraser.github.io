@@ -1,0 +1,23 @@
+The LMU Munich System for the WMT 2020 Unsupervised Machine Translation Shared Task.
+
+Alexandra Chronopoulou, Dario Stojanovski, Viktor Hangya, Alexander Fraser
+
+WMT 2020
+
+This paper describes the submission of LMU Munich to the WMT 2020
+unsupervised shared task, in two language directions, German to/from
+Upper Sorbian. Our core unsupervised neural machine translation
+(UNMT) system follows the strategy of Chronopoulou et al. (2020),
+using a monolingual pretrained language generation model (on German)
+and finetuning it on both German and Upper Sorbian, before
+initializing a UNMT model, which is trained with online
+backtranslation. Pseudoparallel data obtained from an unsupervised
+statistical machine translation (USMT) system is used to fine-tune
+the UNMT model. We also apply BPE-Dropout to the low-resource (Upper
+Sorbian) data to obtain a more robust system. We additionally
+experiment with residual adapters and find them useful in the Up-
+per Sorbian to German direction. We explore sampling during
+backtranslation and curriculum learning to use SMT translations in a
+more principled way. Finally, we ensemble our bestperforming systems
+and reach a BLEU score of 32.4 on German to Upper Sorbian and 35.2 on
+Upper Sorbian to German.

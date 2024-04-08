@@ -1,0 +1,24 @@
+Supervised Word Sense Disambiguation for Venetan: a Proof-of-Concept Experiment
+
+Costanza Conforti and Alexander Fraser
+
+FLAIRS 2017
+
+
+Word Sense Disambiguation (WSD) is a classification task that consists
+of determining which of the senses of an ambiguous word is activated
+in a specific context. Research in this field has primarily
+concentrated on investigating English and a few other well-resourced
+languages. Recently, studies done on a corpus of Old English
+(Wunderlich 2015) showed that, even with limited resources, it is
+still possible to approach the problem of WSD. In this paper a WSD
+system has been developed for the Low Resource Language (LRL) Venetan,
+which has recently received some attention from the Natural Language
+Processing (NLP) community. Our main contributions are twofold: first,
+we select and annotate a corpus for Venetan, considering two words
+(one abstract and one concrete term) and using two levels of
+annotation (fine- and coarse-grained), reporting on annotator
+agreement. Second, we report results of proof-of-concept experiments
+of supervised WSD performed with Support Vector Machines on this
+corpus. To our knowledge, our work is the first time that WSD for a
+European Dialect like Venetan has been studied.

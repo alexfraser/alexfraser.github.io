@@ -1,0 +1,25 @@
+m^4 Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter
+
+Wen Lai, Alexandra Chronopoulou, Alexander Fraser
+
+Findings of EMNLP 2022
+
+Multilingual neural machine translation models (MNMT) yield
+state-of-the-art performance when evaluated on data from a domain and
+language pair seen at training time. However, when a MNMT model is
+used to translate under domain shift or to a new language pair,
+performance drops dramatically. Common practice is to either fine-tune
+the trained model on data from the domain of interest (domain
+adaptation); or to train adapters on the new language pair (language
+adaptation). Although effective, these methods treat the two types of
+adaptation process separately. We consider a very challenging
+scenario: adapting the MNMT model both to a new domain and to a new
+language pair at the same time. In this paper, we propose m^4 Adapter
+(Multilingual Multi-Domain Adaptation for Machine Translation with
+Meta-Adapter), which combines domain and language knowledge using
+meta-learning with adapters. We present empirical results showing that
+our approach is a parameter-efficient solution that adapts a model to
+both a new language pair and a new domain, while it outperforms other
+adapter methods. An ablation study also shows that our approach more
+effectively transfers domain knowledge across different languages and
+language information across different domains.

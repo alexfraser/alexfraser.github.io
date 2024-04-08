@@ -1,0 +1,20 @@
+Integration of a Multilingual Preordering Component into a Commercial SMT Platform
+
+Anita Ramm, Riccardo Superbo, Dimitar Shterionov, Tony O'Dowd, Alexander Fraser
+
+We present a multilingual preordering component tailored for a
+commercial Statistical Machine translation platform. In commercial
+settings, issues such as processing speed as well as the ability to
+adapt models to the customers' needs play a significant role and have
+a big impact on the choice of approaches that are added to the custom
+pipeline to deal with specific problems such as long-range
+reorderings.  We developed a fast and customisable preordering
+component, also available as an opensource tool, which comes along
+with a generic implementation that is restricted neither to the
+translation platform nor to the Machine Translation paradigm. We test
+preordering on three language pairs: English to 
+Japanese/German/Chinese for both Statistical Machine Translation (SMT)
+and Neural Machine Translation (NMT). Our experiments confirm
+previously reported improvements in the SMT output when the models are
+trained on preordered data, but they also show that preordering does
+not improve NMT.

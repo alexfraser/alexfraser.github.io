@@ -1,0 +1,13 @@
+Producing Unseen Morphological Variants in Statistical Machine Translation
+Matthias Huck, Ales Tamchyna, Ondrej Bojar, Alexander Fraser
+EACL 2017
+
+Translating into morphologically rich languages is difficult. Although
+the coverage of lemmas may be reasonable, many morphological variants
+cannot be learned from the training data.  We present a statistical
+translation system that is able to produce these inflected word
+forms. Different from most previous work, we do not separate
+morphological prediction from lexical choice into two consecutive
+steps.  Our approach is novel in that it is integrated in decoding and
+takes advantage of context information from both the source language
+and the target language sides.

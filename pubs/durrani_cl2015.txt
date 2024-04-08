@@ -1,0 +1,29 @@
+The Operation Sequence Model - Combining N-Gram-based and Phrase-based Statistical Machine Translation
+
+Nadir Durrani, Helmut Schmid, Alexander Fraser, Philipp Koehn, Hinrich Schütze
+
+In this article, we present a novel machine translation model, the
+Operation Sequence Model (OSM), that combines the benefits of
+phrase-based and N-gram-based SMT and remedies their drawbacks. The
+model represents the translation process as a linear sequence of
+operations. The sequence includes not only translation operations but
+also reordering operations. As in N-gram-based SMT, the model is: i)
+based on minimal translation units, ii) takes both source and target
+information into account, iii) does not make a phrasal independence
+assumption and iv) avoids the spurious phrasal segmentation
+problem. As in phrase-based SMT, the model i) has the ability to
+memorize lexical reordering triggers, ii) builds the search graph
+dynamically, and iii) decodes with large translation units during
+search. The unique properties of the model are i) its strong coupling
+of reordering and translation where translation and reordering
+decisions are conditioned on n previous translation and reordering
+decisions, ii) the ability to model local and long range reorderings
+consistently. Using BLEU as a metric of translation accuracy, we found
+that our system performs significantly better than state-of-the-art
+phrase-based systems (Moses and Phrasal) and N-gram-based systems
+(Ncode) on standard translation tasks.  We compare the reordering
+component of the OSM model to the Moses lexical reordering model, by
+integrating it into Moses. Our results show that OSM outperforms
+lexicalized reordering on all translation tasks. The translation
+quality is shown to be improved further by learning generalized
+representations with a POS-based OSM model.

@@ -1,0 +1,29 @@
+Alexander Fraser
+fraser@cis.uni-muenchen.de
+
+AER was defined in Och and Ney 2003. I showed that the simple AER
+formula is incorrect (not derived from F-Measure correctly) in my 2007
+journal paper on word alignment quality. I also showed that the AER
+score of an alignment doesn't predict downstream SMT performance very
+well.
+
+This simple example shows how AER and F-Measure do not
+track. F-Measure is worse for the second alignment, which is
+correct. But the AER is the same for the second alignment, this cannot
+be correct.
+
+In my work on discriminative alignment I have observed that, in
+practice, systems that optimize for AER tend to predict very few word
+alignment links, and get unreasonably good AER scores by doing this
+(e.g., like 5% on the Aachen French/English alignment). But the
+alignments produced are very poor for SMT, and probably most other
+purposes.
+
+Sure: A-A B-B Y-Y Z-Z
+Possible: A-A B-B Y-Y Z-Z Q-Q R-R
+
+Alignment 1
+A-A B-B D-D E-E   P=0.50 R=0.50 F=0.50    AER = 1 - ((2+2)/8) = 0.50
+
+Alignment 2
+A-A Q-Q R-R D-D   P=0.75 R=0.25 F<0.50    AER = 1 - ((3+1)/(4+4)) = 0.50

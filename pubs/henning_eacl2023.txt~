@@ -1,0 +1,20 @@
+A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing
+
+Sophie Henning, William Beluch, Alexander Fraser, Annemarie Friedrich
+
+EMNLP 2023
+
+Many natural language processing (NLP) tasks are naturally imbalanced,
+as some target categories occur much more frequently than others in
+the real world. In such scenarios, current NLP models tend to perform
+poorly on less frequent classes. Addressing class imbalance in NLP is
+an active research topic, yet, finding a good approach for a
+particular task and imbalance scenario is difficult. In this
+survey, the first overview on class im- balance in deep-learning based
+NLP, we first discuss various types of controlled and real- world
+class imbalance. Our survey then covers approaches that have been
+explicitly proposed for class-imbalanced NLP tasks or, originating in
+the computer vision community, have been evaluated on them. We
+organize the methods by whether they are based on sampling, data
+augmentation, choice of loss function, staged learning, or model
+design. Finally, we discuss open problems and how to move forward.

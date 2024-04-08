@@ -1,0 +1,10 @@
+LMU Munich's Neural Machine Translation Systems for News Articles and Health Information Texts
+Matthias Huck, Fabienne Braune, Alexander Fraser
+WMT 2017
+
+This paper describes the LMU Munich English to German machine
+translation systems. We participated with neural translation engines
+in the WMT17 shared task on machine translation of news, as well as in
+the biomedical translation task. LMU Munich's systems deliver
+competitive machine translation quality on both news articles and
+health information texts.

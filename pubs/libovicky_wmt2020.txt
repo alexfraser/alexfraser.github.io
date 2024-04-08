@@ -1,0 +1,16 @@
+The LMU Munich System for the WMT20 Very Low Resource Supervised MT Task
+
+Jindřich Libovický, Viktor Hangya, Helmut Schmid, Alexander Fraser
+
+WMT 2020
+
+We present our systems for the WMT20 Very Low Resource MT Task for
+translation between German and Upper Sorbian. For training our
+systems, we generate synthetic data by both backand
+forward-translation. Additionally, we enrich the training data with
+German-Czech translated from Czech to Upper Sorbian by an
+unsupervised statistical MT system incorporating orthographically
+similar word pairs and transliterations of OOV words.  Our best
+translation system between German and Sorbian is based on transfer
+learning from a Czech-German system and scores 12 to 13 BLEU higher
+than a baseline system built using the available parallel data only.

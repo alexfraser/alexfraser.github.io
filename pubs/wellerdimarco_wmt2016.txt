@@ -1,0 +1,15 @@
+Modeling Complement Types in Phrase-Based SMT
+Marion Weller-Di Marco, Alexander Fraser, Sabine Schulte im Walde
+WMT 2016
+
+We explore two approaches to model complement types (NPs and PPs) in
+an English-to-German SMT system: A simple abstract representation
+inserts pseudo-prepositions that mark the beginning of noun phrases,
+to improve the symmetry of source and target complement types, and to
+provide a flat structural information on phrase boundaries. An
+extension of this representation generates context-aware synthetic
+phrase-table entries conditioned on the source side, to model
+complement types in terms of grammatical case and preposition choice.
+Both the simple preposition-informed system and the context-aware
+system significantly improve over the baseline; and the context-aware
+system is slightly better than the system without context information.

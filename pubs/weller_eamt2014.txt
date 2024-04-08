@@ -1,0 +1,11 @@
+Combining Bilingual Terminology Mining and Morphological Modeling for Domain Adaptation in SMT
+
+Marion Weller, Alexander Fraser, Ulrich Heid
+
+Translating in technical domains is a well-known problem in SMT, as
+the lack of parallel documents causes significant problems of
+sparsity.  We discuss and compare different strategies for enriching
+SMT systems built on general domain data with bilingual terminology
+mined from comparable corpora.  In particular, we focus on the
+target-language inflection of the terminology data and present a
+pipeline that can generate previously unseen inflected forms.

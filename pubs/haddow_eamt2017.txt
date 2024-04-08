@@ -1,0 +1,16 @@
+HimL: Health in my Language
+
+Barry Haddow, Alexandra Birch, Ondřej Bojar, Fabienne Braune,
+Colin Davenport, Alex Fraser, Matthias Huck, Michal Kašpar,
+Květoslava Kovařı́ková, Josef Plch, Anita Ramm, Juliane Ried,
+James Sheary, Aleš Tamchyna, Dušan Variš, Marion Weller, Phil Williams
+
+EAMT 2017 Projects
+
+
+HimL (www.himl.eu) is a three-year EU H2020 Innovation Action, which
+started in February 2015. Its aim is to increase the availability of
+public health information via automatic translation. Targeting
+languages of Central and Eastern Europe (Czech, German, Polish and
+Romanian) we aim to produce translations which are adapted to the
+health domain, semantically accurate and morphologically correct.

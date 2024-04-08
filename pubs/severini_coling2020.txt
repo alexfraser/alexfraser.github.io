@@ -1,0 +1,25 @@
+Combining Word Embeddings with Bilingual Orthography Embeddings for Bilingual Dictionary Induction
+
+Silvia Severini, Viktor Hangya, Alexander Fraser, Hinrich Schütze 
+
+COLING 2020
+
+Bilingual dictionary induction (BDI) is the task of accurately
+translating words to the target language.  It is of great importance
+in many low-resource scenarios where cross-lingual training data is
+not available.  To perform BDI, bilingual word embeddings (BWEs) are
+often used due to their low bilingual training signal requirements.
+They achieve high performance, but problematic cases still remain,
+such as the translation of rare words or named entities, which often
+need to be transliterated.  In this paper, we enrich BWE-based BDI
+with transliteration information by using Bilingual Orthography
+Embeddings (BOEs). BOEs represent source and target language
+transliteration word pairs with similar vectors.  A key problem in our
+BDI setup is to decide which information source -- BWEs (or semantics)
+vs. BOEs (or orthography) -- is more reliable for a particular word
+pair.  We propose a novel classification-based BDI system that uses
+BWEs, BOEs and a number of other features to make this decision.  We
+test our system on English-Russian BDI and show improved performance.
+In addition, we show the effectiveness of our BOEs by successfully
+using them for transliteration mining based on cosine similarity.
+
