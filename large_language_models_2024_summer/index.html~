@@ -1,0 +1,89 @@
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; Charset=UTF-8" /> 
+<TITLE>WP1 LSS: Large Language Models - Seminar (WS 2023-2024)</TITLE>
+</HEAD>
+<BODY>
+<H2>WP1 LSS: Large Language Models - Seminar (WS 2023-2024)</H2>
+
+<H2>Summary</H2>
+
+<P>Large Language Models (such as GPT2, GPT3, GPT4, RoBERTa, T5) and Intelligent Chatbots (such as ChatGPT, Bard and Claude) are a very timely topic.
+
+<P>Inhalte:
+
+<P>N-gram language models, neural language modeling, word2vec, RNNs, Transformers, BERT, RLHF, ChatGPT, multilingual alignment, prompting, transfer learning, domain adaptation, linguistic knowledge in large language models
+
+<P>Lernziele:
+
+<P>The participants will first learn the basics of n-gram language models, neural language modeling, RNNs and Transformers. In the second half of the seminar, participants will present an application of a modern large language model, intelligent chatbot or similar system. This class will involve a large amount of reading on both the basics and advanced topics.
+
+<BR>
+
+<H2>Instructor</H2>
+
+<P><A HREF="/~fraser">Alexander Fraser</A> 
+<P>Email Address: Put My Last Name Here @cis.uni-muenchen.de
+<P>
+<P><A HREF="../..">CIS, LMU Munich</A>
+
+<p>
+<br>
+
+<p>
+<br>
+
+<H2>Schedule</H2>
+
+<p>Tuesdays: 16:00 c.t., Oettingenstr. 67 / 165
+<br>
+<p>
+<br>
+<p>For a <b>LaTeX template for the Hausarbeit</b>, click <a href="Seminar_Template.tar.gz">here</a>.
+<br>
+<p>
+<br>
+<p>If this web page does not seem to be up to date, use the refresh button in your browser.
+<br>
+
+<table border="2">
+<tr> <td> Date </td> <td> Topic </td> <td> Materials </td></tr>
+<tr> <td> October 31st </td> <td> Dan Jurafsky and James H. Martin (2023). Speech and Language Processing (3rd ed. draft), Chapter 3, N-gram Language Models </td>  <td> <A HREF="https://web.stanford.edu/~jurafsky/slp3/3.pdf">pdf</AY  </td>   </tr>
+<tr> <td> November 7th </td> <td> Y Bengio, R Ducharme, P Vincent, C Jauvin (2003). A neural probabilistic language model. Journal of Machine Learning Research 3, 1137-1155 </td> <td> <A HREF="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">pdf</A> </td>  </tr>
+<tr> <td> November 14th </td> <td> Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean (2013). Efficient Estimation of Word Representations in Vector Space. ICLR  </td>  <td> <A HREF="https://arxiv.org/abs/1301.3781">paper</A>  </td>   </tr>
+<tr> <td> November 21st </td> <td> Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin (2017). Attention Is All You Need. NIPS </td>  <td> <A HREF="https://arxiv.org/abs/1706.03762">paper</A>  </td>   </tr>
+<tr> <td> November 28th </td> <td> Lena Voita. NLP Course: Sequence to Sequence (seq2seq) and Attention. Web Tutorial </td>  <td> <A HREF="https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html">webpage</A> </td>   </tr>
+<tr> <td> Also November 28th </td> <td> Referat Topics </td> <td> 
+    <a href="REFERAT.pdf">Presentation and Writeup</a><br>
+    <a href="haemmerl.pdf">Kathy Hämmerl</a><br>
+    <a href="dimarco.pdf">Dr Marion Di Marco</a> <br>
+    <a href="hangya.pdf">Dr Viktor Hangya</a> <br>
+    <a href="ghorbanpour.pdf">Faeze Ghorbanpour</a><br>
+  </td></tr>
+<tr> <td> December 5th </td> <td> Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova (2019) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-HLT  </td>  <td> <A HREF="https://aclanthology.org/N19-1423">paper</A>  </td>   </tr>
+</table> 
+<p>
+<br>
+
+<p>
+<br>
+<p>Referatsthemen (name: topic)
+<br>
+<p>
+<br>
+
+<table border="2">
+<tr> <td> Date </td> <td> Topic </td> <td> Reference </td> <td> Materials </td> <td> Presenter </td> <td>Hausarbeit Received</td> </tr>
+<tr> <td> December 12th </td> <td> InstructGPT (AF) </td> <td> Long Ouyang, Jeff Wu, et al. (2022). Training language models to follow instructions with human feedback. arXiv. </td>  <td> <a href="https://arxiv.org/abs/2203.02155">paper</a> </td>  <td> AF </td>  <td> </td> </tr>
+<tr> <td> (same as above) </td> <td> Factuality in LLMs (KH) </td> <td> Gao, Tianyu et al. (2023). Enabling Large Language Models to Generate Text with Citations. EMNLP </td>  <td> <a href="https://arxiv.org/abs/2305.14627">paper</a> </td>  <td> Jana Grimm </td>  <td> yes </td> </tr>
+<tr> <td> January 9th, 2024 </td> <td> Decoding Strategies (KH) </td> <td> Gian Wiher, Clara Meister, and Ryan Cotterell (2022). On Decoding Strategies for Neural Text Generators. Transactions of the Association for Computational Linguistics, 10:997–1012. <td> <a href="https://aclanthology.org/2022.tacl-1.58/">paper</a> </td>  <td> Oliver Kraus </td>  <td> yes </td> </tr>
+<tr> <td> (same as above) </td> <td> Position of Relevant Information (VH) </td> <td> Liu et al. (2023). Lost in the Middle: How Language Models Use Long Contexts. Transactions of the Association for Computational Linguistics <td> <a href="https://arxiv.org/abs/2307.03172">paper</a> </td>  <td> Huixin Chen </td>  <td> yes </td> </tr>
+<tr> <td> January 16th, 2024 </td> <td> Importance of Data Understanding (FG) </td> <td> Elazar et al. (2023). What’s In My Big Data?. In arXiv preprint arXiv:2310.20707. </td> <td> <a href="https://arxiv.org/pdf/2310.20707.pdf">paper</a> </td>  <td> Lea Hirlimann </td>  <td> yes </td> </tr>
+<tr> <td> (same as above) </td> <td> Emergent Capabilities of LLMs (VH) </td> <td> Wei et al. (2022). Emergent Abilities of Large Language Models. Transactions on Machine Learning Research </td>  <td> <a href="https://arxiv.org/pdf/2206.07682.pdf">paper</a> </td>  <td> Shuo Xu </td>  <td> yes </td> </tr>
+<tr> <td> January 23rd, 2024 </td> <td> Inequality Between Languages (KH) </td> <td> Ahia, Orevaoghene et al. (2023). Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models. CoRR, ArXiv abs/2305.13707 <td> <a href="https://arxiv.org/abs/2305.13707">paper</a> </td>  <td> Zhijun Ying </td>  <td> yes </td> </tr>
+<tr> <td> (same as above) </td> <td> Data Pruning for LLM Training (FG) </td> <td> Marion et al. (2023). When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale. In arXiv preprint arXiv:2309.04564. </td> <td> <a href="https://arxiv.org/pdf/2309.04564.pdf">paper</a> </td>  <td> Kristina Kuznetsova </td>  <td> yes </td> </tr>
+<tr> <td> January 30th, 2024 </td> <td> Subword Segmentation (MDM) </td> <td> Valentin Hofmann, Janet Pierrehumbert, Hinrich Schuetze (2021). Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation of Complex Words. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing </td> <td> <a href="https://aclanthology.org/2021.acl-long.279.pdf">paper</a> </td>  <td> Pingjun Hong </td>  <td> yes </td> </tr>
+</table>
+
+</BODY>
+</HTML>
