@@ -1,0 +1,97 @@
+Job Title: PhD Student Researcher in Natural Language Processing
+
+Institution: Technical University of Munich (TUM)
+
+Location: Heilbronn, Germany
+
+Salary: TVL E-13
+
+Contract: 100%, three years
+
+Start Date: September 1st, 2024
+
+
+Responsibilities:
+
+Conduct research in the area of Natural Language Processing (NLP)
+
+Develop and apply new NLP techniques to solve real-world problems
+
+Publish high-quality research papers in top-tier journals and conferences
+
+Supervise Bachelors and Masters students
+
+Assist teaching Bachelors and Masters courses in Machine Learning
+and/or Natural Language Processing
+
+
+Qualifications:
+
+Masters in NLP, Computer Science or a related field
+
+Projects in NLP or machine learning
+
+Excellent programming skills in Python and other relevant programming
+languages
+
+Strong communication and presentation skills in English (German is not
+necessary, but would be a plus; other languages are also of strong
+interest)
+
+
+Benefits:
+
+Competitive salary and benefits package
+
+Opportunity to work with leading researchers in the field of NLP
+
+Access to state-of-the-art research facilities
+
+Opportunity to publish your research in top-tier journals and conferences
+
+
+About the School:
+
+The School of Computation, Information and Technology at the Technical
+University of Munich (TUM) is one of the leading research institutions
+in the fields of Natural Language Processing and Machine Learning.
+
+The new Fraser NLP lab at TUM is seeking a highly motivated and
+talented phd student / researcher to join our team. We are located at
+the new multi-university campus (the Bildungscampus, where the ETH
+Zurich center will also be located in the future) in Heilbronn, near
+Stuttgart.
+
+The research interests of the lab include all areas of NLP, with a
+particular focus on multilingual language models and machine
+translation.
+
+For the PhD student position, two possible research foci are possible:
+machine translation of metaphors and machine translation of
+low-resource languages.
+
+
+To Apply:
+
+Please submit a brief application letter, your CV, a research
+statement, contact information for two references, and a list of
+publications in a single PDF named phd_lastname_firstname.pdf (e.g.,
+phd_fraser_alexander.pdf).
+
+Please send the PDF (or any questions) to Wen Lai at:
+
+lavine@cis.lmu.de
+
+
+Deadline:
+
+Applications will be accepted on a rolling basis. We encourage you to apply early.
+
+--
+Prof. Dr. Alexander Fraser
+Chair for Data Analytics & Statistics
+Technical University of Munich
+School of Computation, Information and Technology
+Heilbronn Campus
+
+Web: http://alexfraser.github.io

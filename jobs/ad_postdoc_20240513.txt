@@ -1,0 +1,104 @@
+Job Title: Postdoctoral Researcher in Natural Language Processing
+
+Institution: Technical University of Munich (TUM)
+
+Location: Heilbronn, Germany
+
+Salary: TVL E-13 (possible option: E-14)
+
+Contract: 100%, two years, renewal is possible
+
+Start Date: September 1st, 2024
+
+
+Responsibilities:
+
+Conduct independent research in the area of Natural Language
+Processing (NLP)
+
+Develop and apply new NLP techniques to solve real-world problems
+
+Publish high-quality research papers in top-tier journals and conferences
+
+Supervise PhD students
+
+Teach Bachelors and Masters courses in Machine Learning and/or Natural
+Language Processing
+
+
+Qualifications:
+
+PhD in NLP or a related field
+
+Strong publication record in top-tier NLP conferences and journals
+
+Expertise in one or more NLP techniques, such as machine translation,
+natural language understanding, or natural language generation
+
+Excellent programming skills in Python and other relevant programming
+languages
+
+Strong communication and presentation skills in English (German is not
+necessary, but would be a plus; other languages are also of strong
+interest)
+
+Not required, but a big plus: teaching experience, supervising experience
+
+
+Benefits:
+
+Competitive salary and benefits package
+
+Opportunity to work with leading researchers in the field of NLP
+
+Access to state-of-the-art research facilities
+
+Opportunity to publish your research in top-tier journals and conferences
+
+Opportunity to teach and mentor students
+
+
+About the School:
+
+The School of Computation, Information and Technology at the Technical
+University of Munich (TUM) is one of the leading research institutions
+in the fields of Natural Language Processing and Machine Learning.
+
+The new Fraser NLP lab at TUM is seeking a highly motivated and
+talented postdoctoral researcher to join our team. We are located at
+the new multi-university campus (the Bildungscampus, where the ETH
+Zurich center will also be located in the future) in Heilbronn, near
+Stuttgart.
+
+The research interests of the lab include all areas of NLP, with a
+particular focus on multilingual language models and machine
+translation.
+
+The postdoc position will involve work on low-resource languages in
+both machine translation and multilingual language models.
+
+
+To Apply:
+
+Please submit a brief application letter, your CV, a research
+statement, contact information for two references, and a list of
+publications in a single PDF named postdoc_lastname_firstname.pdf (e.g.,
+postdoc_fraser_alexander.pdf).
+
+Please send the PDF (or any questions) to Dr. Lukas Edman at:
+
+lukas@cis.lmu.de
+
+
+Deadline:
+
+Applications will be accepted on a rolling basis. We encourage you to apply early.
+
+--
+Prof. Dr. Alexander Fraser
+Chair for Data Analytics & Statistics
+Technical University of Munich
+School of Computation, Information and Technology
+Heilbronn Campus
+
+Web: http://alexfraser.github.io
