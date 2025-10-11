@@ -1,4 +1,4 @@
-Job Title: PhD Student Researcher in Natural Language Processing
+Job Title: Two PhD Student Researchers in Natural Language Processing
 
 Institution: Technical University of Munich (TUM)
 
@@ -8,7 +8,7 @@ Salary: TVL E-13
 
 Contract: 100%, three years
 
-Start Date: July 1st, 2025
+Preferred Start Date: July 1st, 2026
 
 
 Responsibilities:
@@ -21,15 +21,15 @@ Publish high-quality research papers in top-tier journals and conferences
 
 Supervise Bachelors and Masters students
 
-Assist teaching Bachelors and Masters courses in Machine Learning
-and/or Natural Language Processing
+Assist teaching Bachelors and Masters courses in Machine Learning and
+in Natural Language Processing
 
 
 Qualifications:
 
 Masters in NLP, Computer Science or a related field
 
-Projects in NLP or machine learning
+Projects in NLP or other areas of machine learning
 
 Excellent programming skills in Python and other relevant programming
 languages
@@ -54,25 +54,29 @@ About the School:
 
 The School of Computation, Information and Technology at the Technical
 University of Munich (TUM) is one of the leading research institutions
-in the fields of Natural Language Processing and Machine Learning.
+in Natural Language Processing and other areas of Machine Learning.
+The MCML (Munich Center for Machine Learning) is a leading German
+research hub which advances cutting-edge machine learning research and
+its applications across science and industry.
 
-The Fraser NLP lab at TUM is seeking a highly motivated and talented
-phd student / researcher to join our team. We are located at the new
-multi-university campus (the Bildungscampus, where the ETH Zurich
-center will also be located in the near future). This is in Heilbronn,
+The Fraser NLP lab at TUM is seeking two highly motivated and talented
+phd-student-researchers to join our team. We are located in Heilbronn
+at the new multi-university campus (the Bildungscampus, where the ETH
+Zurich center will also be located in the near future). Heilbronn is
 in a beautiful wine region on the Neckar river, near Stuttgart.
 
 The research interests of the lab include all areas of NLP, with a
 particular focus on multilingual language models and machine
 translation. These positions will be supported by MCML and/or Fraser's
-ERC Advanced Grant EPICAL.
+ERC Advanced Grant EPICAL (Evaluating and Programming Intelligent
+Chatbots for Any Language).
 
 To Apply:
 
-We are using the MCML call for PhD students in 2026, please follow
+We are using the MCML call for PhD students for 2026, please follow
 their instructions and select Prof Fraser as your preferred advisor.
 
-https://www.portal.graduatecenter.lmu.de/ocgc/mcml
+https://mcml.ai/opportunities/for-phd-applicants/
 
 Deadline:
 
