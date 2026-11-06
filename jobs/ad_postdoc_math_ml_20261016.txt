@@ -1,0 +1,101 @@
+Postdoctoral Lecturer/Researcher in Machine Learning
+
+Technical University of Munich (TUM)  
+School of Computation, Information and Technology  
+TUM Heilbronn Natural Language Processing Research Group  
+Location: Heilbronn, Germany
+
+Position: 100%, two years, with possible renewal  
+Salary: TV-L E-13 (E-14 may be possible depending on qualifications)  
+Start date: As soon as possible, and no later than March 1, 2027
+
+## The position
+
+We are looking for a mathematically strong and enthusiastic postdoctoral lecturer/researcher to join the TUM Heilbronn Natural Language Processing Research Group.
+
+This is an unusual academic position that combines substantial teaching responsibilities in mathematics and machine learning with the opportunity to conduct independent research in an active NLP/ML research environment.
+
+The position is particularly well suited to someone who enjoys teaching and would like to combine teaching with research, rather than to someone looking for a conventional research-only postdoc.
+
+## Teaching
+
+The main responsibility of the position is teaching two core courses:
+
+- Discrete Probability Theory, a required 4th-semester Bachelor's course
+
+- Machine Learning, a flagship Master's course in the Information Engineering program at the TUM Heilbronn campus
+
+The position also involves supervising students.
+
+We are looking for someone who enjoys explaining mathematical and machine-learning concepts clearly and who is interested in teaching in English. There may also be opportunities to contribute to teaching in other areas related to the candidate's expertise.
+
+## Research
+
+Alongside teaching, the position provides substantial opportunity for independent research in machine learning and/or NLP.
+
+The Fraser NLP group works broadly across NLP and ML, with particular interests in multilingual language models and machine translation. For this position, research in any area related to machine learning is welcome, including, for example, reasoning in LLMs, uncertainty, model or text compression, multimodality, ... .
+
+We particularly welcome candidates who can identify natural opportunities for collaboration with the group and the broader research community in Heilbronn.
+
+The position is intended to provide the freedom to develop and pursue an independent research agenda alongside the teaching responsibilities.
+
+## Who we are looking for
+
+- PhD in AI, Computer Science, Mathematics, or a related field.
+- Strong mathematical and/or machine-learning background.
+- Genuine interest in teaching mathematics and machine learning to Bachelor's and Master's students.
+- Strong communication and presentation skills in English.
+- Previous teaching experience is highly desirable.
+- Previous student-supervision experience is a plus.
+- German is not required, although it is welcome.
+- Knowledge of additional languages is of particular interest given the group's research in multilingual NLP; please list the languages you speak in your application.
+
+We are open to candidates from a range of backgrounds, including machine learning, NLP, computer science, mathematics, statistics, and related fields.
+
+## About the research environment
+
+The TUM Heilbronn NLP group is part of the Chair for Data Analytics and Statistics at TUM's School of Computation, Information and Technology.
+
+The group is located at the relatively new Bildungscampus in Heilbronn, together with ETH Zurich and other academic institutions.
+
+Alexander Fraser is a PI of the Munich Center for Machine Learning (MCML), a Core Member of the Munich Data Science Institute (MDSI), a Fellow of the European Laboratory for Learning and Intelligent Systems (ELLIS), and the holder of the ERC Advanced Grant EPICAL.
+
+The group's research covers all areas of NLP, with a particular focus on multilingual language models and machine translation. The Heilbronn campus also provides opportunities for interaction with researchers working across machine learning, AI, information engineering, and related fields.
+
+## What we offer
+
+- A combination of substantial teaching experience and independent research.
+- The opportunity to teach both foundational mathematics and advanced machine learning.
+- An academic environment with strong connections to NLP, machine learning, and AI research.
+- Interaction with researchers across all campuses of TUM and across the wider Heilbronn research community.
+- Opportunities to develop and publish independent research.
+- Access to state-of-the-art research facilities and infrastructure.
+- Salary and benefits according to the German public-sector pay scale (TV-L).
+
+## How to apply
+
+Please submit the following materials as a single PDF:
+
+- a brief application letter;
+- CV;
+- research statement;
+- contact information for two references;
+- publication list.
+
+Please name the file `postdoc_lastname_firstname.pdf`, for example `postdoc_fraser_alexander.pdf`.
+
+Please send the PDF, or any questions about the position, to:
+
+frasercontacthn+003@gmail.com
+
+Applications will be reviewed on a rolling basis, so we encourage interested candidates to apply early.
+
+Prof. Dr. Alexander Fraser  
+Chair for Data Analytics & Statistics  
+Technical University of Munich  
+School of Computation, Information and Technology  
+Heilbronn Campus
+
+Web:  
+http://alexfraser.github.io  
+https://mcml.ai/research/groups/fraser/
